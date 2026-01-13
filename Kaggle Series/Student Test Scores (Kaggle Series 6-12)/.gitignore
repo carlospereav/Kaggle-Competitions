@@ -1,0 +1,12 @@
+# CatBoost training files
+catboost_info/
+catboost_training.json
+learn_error.tsv
+time_left.tsv
+
+# TensorBoard logs
+events.out.tfevents*
+
+# Generated files
+submission.csv
+
